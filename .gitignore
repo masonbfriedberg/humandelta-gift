@@ -1,0 +1,11 @@
+# Dependencies and Netlify local state
+node_modules/
+.netlify/
+
+# Personal links contain names, emails and codes - never commit them
+links.csv
+test-links.csv
+recipients.csv
+*.csv
+
+.DS_Store
